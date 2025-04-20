@@ -1,3 +1,4 @@
 [submodule "_site/StatisticalMechanics"]
 	path = _site/StatisticalMechanics
 	url = https://github.com/Gastronote/StatisticalMechanics.git
+	branch = gh-pages
