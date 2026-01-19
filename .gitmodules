@@ -2,3 +2,8 @@
 	path = _site/StatisticalMechanics
 	url = https://github.com/Gastronote/StatisticalMechanics.git
 	branch = gh-pages
+
+[submodule "_site/QuantumMechanics"]
+	path = _site/QuantumMechanics
+	url = https://github.com/Gastronote/QuantumMechanics.git
+	branch = main
